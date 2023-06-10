@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/kojd">
+        <file>Book_Dataset_1.csv</file>
+    </qresource>
+</RCC>
